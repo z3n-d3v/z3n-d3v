@@ -1,7 +1,7 @@
 <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRuZW5na2wzNjZoNGEzMTd3enhvNGYwOWF4bDl0ajBwMmdqanJxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2FMZ918Q5JX8Y/giphy.webp" />
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=z3n-dev&color=73EC8B&style=for-the-badge" alt="z3n-d3v" />
+  <img src="https://komarev.com/ghpvc/?username=z3n-dev&color=7C00FE&style=for-the-badge" alt="z3n-d3v" />
 </p>
 
 <p align="right">heey, I'm Alvaro.</p>

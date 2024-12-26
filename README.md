@@ -16,7 +16,7 @@
 
 <h4 align="left">What I do?</h4>
 <p>I mostly work on Rails and Javascript applications, usually more with React. But I am always open to a weird JS framework :)</p>
-<p>My core field of study is Product Design and UX. Always towards how to improve processes and workflows.</p>
+<p>My core fields of study is Product Design and UX. Always towards how to improve processes and workflows.</p>
 
 <h4>My current activity</h4>
 <ul>

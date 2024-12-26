@@ -6,7 +6,7 @@
 
 <p align="right">heey, I'm Alvaro.</p>
 <p align="right"><i>Creating cool stuff and removing complexity.</i> </br> I'm a Brazilian full-stack developer focused on UX and product design. </p>
-<p align="right">I also love to chat about music and producing some weird stuff from </br> time to time. If you want to connect get in touch on <i>coming_soon...</i></p>
+<p align="right">I also love to chat about music and producing some </br> weird stuff from time to time. </br> If you want to connect get in touch on <i>coming_soon...</i></p>
 
 <br />
 <br />
